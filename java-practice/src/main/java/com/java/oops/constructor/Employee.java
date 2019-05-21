@@ -49,7 +49,4 @@ public class Employee {
         System.out.println("Employee Salary: "+empSalary);
         System.out.println("Employee Address: "+address);
     }
-    
-    
-
 }
