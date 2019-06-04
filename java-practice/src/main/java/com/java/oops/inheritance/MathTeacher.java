@@ -10,7 +10,7 @@ public class MathTeacher extends Teacher{
     private String mainSubject = "Maths";
 
     /**
-     * Here we are reusing methods and properties of parent class Teacher for child class MathTeacher
+     * Here we are reusing methods and properties of parent class "Teacher" for child class "MathTeacher"
      * Relation: MathTeacher is a Teacher
      * @param args
      */
