@@ -8,6 +8,7 @@ public class StaticVariablesExample {
      * static var shares single copy across all the class objects
      * @param args
      */
+    @SuppressWarnings("static-access")
     public static void main(String[] args) {
         StaticVariablesExample obj1 = new StaticVariablesExample();
         StaticVariablesExample obj2 = new StaticVariablesExample();
