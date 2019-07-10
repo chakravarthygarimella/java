@@ -2,12 +2,14 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
+/java-practice/.apt_generated
+/java-practice/.classpath
+/java-practice/.factorypath
+/java-practice/.project
+/java-practice/.settings
+/java-practice/.springBeans
+/java-practice/bin
+/java-practice/.gradle
 
 ### IntelliJ IDEA ###
 .idea
@@ -17,9 +19,34 @@ target/
 
 ### NetBeans ###
 nbproject/private/
-build/
+/java-practice/build/*
 nbbuild/
 dist/
 nbdist/
-.nb-gradle/
-/.gradle/
+/java-practice/.nb-gradle/
+/java-practice/.gradle/
+
+# dependencies
+/react-app-from-scratch/jsx-javascript/node_modules
+/react-app-from-scratch/props-example/node_modules
+/react-app-from-scratch/react-app-1/node_modules
+/react-app-from-scratch/react-spring-boot-app/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/java-practice/build/*
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
