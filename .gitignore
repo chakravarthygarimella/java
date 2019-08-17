@@ -19,7 +19,7 @@ target/
 
 ### NetBeans ###
 nbproject/private/
-/java-practice/build/*
+Java/java-practice/build/*
 nbbuild/
 dist/
 nbdist/
@@ -27,11 +27,7 @@ nbdist/
 /java-practice/.gradle/
 
 # dependencies
-/react-app-from-scratch/jsx-javascript/node_modules
-/react-app-from-scratch/props-example/node_modules
-/react-app-from-scratch/react-app-1/node_modules
-/react-app-from-scratch/react-spring-boot-app/node_modules
-/react-app-from-scratch/*/node_modules
+node_modules
 /.pnp
 .pnp.js
 
