@@ -11,6 +11,9 @@ target/
 /java-practice/bin
 /java-practice/.gradle
 
+*.class
+*bin
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -47,3 +50,5 @@ node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+**/*.class
