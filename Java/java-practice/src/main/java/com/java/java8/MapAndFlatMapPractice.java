@@ -1,6 +1,5 @@
 package com.java.java8;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -12,6 +11,7 @@ public class MapAndFlatMapPractice {
         Stream<Stream<String>> flatMapList = Stream.of(mapList, mapList);
 
         List<String> listFromMap = mapList.map(String::toUpperCase).collect(Collectors.toList());
+        System.out.println(listFromMap);
 
     }
 

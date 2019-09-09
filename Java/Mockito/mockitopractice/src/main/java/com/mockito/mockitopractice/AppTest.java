@@ -18,7 +18,7 @@ import org.mockito.junit.MockitoRule;
 @RunWith(MockitoJUnitRunner.class)
 public class AppTest {
 	
-	 @InjectMocks
+	    @InjectMocks
 	    RecordService service;
 
 	    @Mock
