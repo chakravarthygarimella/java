@@ -1,4 +1,4 @@
-package com.java.java8;
+package com.java.java8.functions;
 
 @FunctionalInterface
 public interface CustomFuncInterface {

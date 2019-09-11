@@ -1,4 +1,4 @@
-package com.java.java8;
+package com.java.java8.lambda;
 
 import java.util.Arrays;
 import java.util.Collections;

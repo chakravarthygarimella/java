@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.java.java8;
+package com.java.java8.functions;
 
 import java.util.function.BiConsumer;
 
