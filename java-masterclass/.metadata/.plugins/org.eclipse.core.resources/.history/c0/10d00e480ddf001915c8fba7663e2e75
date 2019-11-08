@@ -1,0 +1,37 @@
+package com.java.datatypes;
+
+public class FloatAndDouble {
+
+	public static void main(String[] args) {
+		float minFloatValue = Float.MIN_VALUE;
+		float maxFloatValue = Float.MAX_VALUE;
+		
+		System.out.println("minimum float value: "+minFloatValue);
+		System.out.println("maximum float value: "+maxFloatValue);
+		
+		double mindoubleValue = Double.MIN_VALUE;
+		double maxdoubleValue = Double.MAX_VALUE;
+		
+		System.out.println("minimum double value: "+mindoubleValue);
+		System.out.println("maximum double value: "+maxdoubleValue);
+		
+		int intValue = 5;
+		float floatValue = 5.27F;
+		double doubleValue = 5.27;
+		
+		//float casting from double number
+		float f1 = (float) 5.27;
+		
+		//int can't handle the remainder of the division, it eliminates the remainder, result should be 2
+		int v1 = 5/2;
+		float v2 =5f/2f;
+		double v3 = 5d/2d;
+		
+		System.out.println("int value: "+v1);
+		System.out.println("float value: "+v2);
+		System.out.println("double value: "+v3);
+		
+		
+	}
+
+}

@@ -1,0 +1,31 @@
+package com.java.datatypes;
+
+public class ByteShortIntLong {
+
+	public static void main(String[] args) {
+		int minVlaue = Integer.MIN_VALUE;
+		int maxValue = Integer.MAX_VALUE;
+		
+		System.out.println(minVlaue);
+		System.out.println(maxValue);
+		
+		//adding extra value to max integrer value
+		System.out.println("Adding extra value to int max value: " +(maxValue + 100));
+		System.out.println("subtracting extra value from int min value: " +(minVlaue - 100));
+		
+		//adding number to max value is overflow
+		//subtracting number from min value is underflow
+		
+		//larger number that can hold upto
+		int intTest = 2147483647;
+		
+		//byte datatype
+		byte byteMinValue = Byte.MIN_VALUE;
+		byte byteMaxValue = Byte.MAX_VALUE;
+		
+		System.out.println("byte min value: "+byteMinValue);
+		
+
+	}
+
+}

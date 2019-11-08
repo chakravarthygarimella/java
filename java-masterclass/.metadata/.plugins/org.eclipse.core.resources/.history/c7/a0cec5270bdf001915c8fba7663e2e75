@@ -1,0 +1,13 @@
+package com.java.datatypes;
+
+public class FloatAndDouble {
+
+	public static void main(String[] args) {
+		float minFloatValue = Float.MIN_VALUE;
+		float maxFloatValue = Float.MAX_VALUE;
+		
+		System.out.println(minFloatValue);
+		System.out.println(maxFloatValue);
+	}
+
+}

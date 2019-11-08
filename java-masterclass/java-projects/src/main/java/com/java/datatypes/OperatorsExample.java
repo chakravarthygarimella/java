@@ -1,0 +1,20 @@
+package com.java.datatypes;
+
+public class OperatorsExample {
+
+	public static void main(String[] args) {
+		double var1 = 20.00;
+		double var2 = 80.00;
+		
+		double var3 = (var1+var2)*100.00;
+		
+		double reminder = var3 % 40.00;
+		
+		boolean output = (reminder == 0) ? true : false;
+		
+		String outputMsg = !output ? "Got some remainder" : "no remainder";
+		
+		System.out.println(outputMsg);
+	}
+
+}

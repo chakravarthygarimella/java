@@ -1,0 +1,18 @@
+package com.java.datatypes;
+
+public class ByteShortIntLong {
+
+	public static void main(String[] args) {
+		int minVlaue = Integer.MIN_VALUE;
+		int maxValue = Integer.MAX_VALUE;
+		
+		System.out.println(minVlaue);
+		System.out.println(maxValue);
+		
+		//adding extra value to max integrer value
+		System.out.println("Adding extra value to int max value: " +(maxValue + 1));
+		System.out.println("subtracting extra value from int min value: " +(minVlaue - 1));
+
+	}
+
+}

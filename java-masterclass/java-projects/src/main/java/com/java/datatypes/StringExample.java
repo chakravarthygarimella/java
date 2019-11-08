@@ -1,0 +1,14 @@
+package com.java.datatypes;
+
+public class StringExample {
+
+	public static void main(String[] args) {
+		String str1 = "chakri";
+		String str2 = str1 + "hello";
+		str1.concat(str2);
+		System.out.println(str1);
+		System.out.println(str2);
+
+	}
+
+}
