@@ -1,4 +1,4 @@
-## oops concepts:
+## Oops concepts:
  - Abstarction
  - Encapsulation
  - Inheritance
@@ -9,7 +9,7 @@
  - Association
  - Composition
  
-## core java concepts(Imp):
+## Core java concepts(Imp):
 - conditions/statements, loops and data types
 - operators
 - keywords(ex:super)
@@ -80,7 +80,7 @@
 - Cassandra
 - JanusGraph
 
-## scripting
+## Scripting
 - python
 - go
 - groovy
