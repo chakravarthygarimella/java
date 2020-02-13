@@ -1,5 +1,10 @@
-## java
-## React
-## Mockito
-## spring-boot
-check the wiki for Api information for these projects
+## oops concepts
+Abstarction
+Encapsulation
+Inheritance
+Polymorphism
+Method overriding
+Method overloading
+Aggregation
+Association
+Composition
