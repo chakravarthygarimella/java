@@ -73,6 +73,10 @@
 - mockito
 - freemarker
 
+## Design patterns
+- Singleton
+- Builder
+
 ## Database
 - SQL Server
 - MySql
