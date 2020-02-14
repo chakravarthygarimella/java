@@ -101,10 +101,16 @@
 - Bamboo
 - Terraform
 - Docker
-- AWS
 - splunk
 - ELK stack
 - HA-Proxy
+
+## Cloud
+- AWS
+- Azure
+- Bluemix
+- Google cloud platform
+- Salesforce.com
 
 ## Operating systems
 - Windows
