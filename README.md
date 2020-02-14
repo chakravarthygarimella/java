@@ -15,7 +15,7 @@
 - keywords(ex:super)
 - String
 - Ternary operator
-- Access modifier
+- Access modifiers
 - Java Enums
 - Java annotations
 - string builder/string buffer
