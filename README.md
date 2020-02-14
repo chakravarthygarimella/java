@@ -73,6 +73,11 @@
 - mockito
 - freemarker
 
+## Security(Cryptography)
+- Base64
+- AES
+- Jasypt
+
 ## Design patterns
 - Singleton
 - Builder
