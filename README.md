@@ -96,6 +96,10 @@
 - ansible
 - ruby
 
+## Parsing techniques
+- Regex
+- ANTLR
+
 ## CICD
 - Jenkins
 - Bamboo
